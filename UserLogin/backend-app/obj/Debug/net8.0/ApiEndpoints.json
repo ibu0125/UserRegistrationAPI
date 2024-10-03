@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "backend_app.Controllers.LoginController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Login/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "backend_app.Models.Users",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
