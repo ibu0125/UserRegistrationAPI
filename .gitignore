@@ -6,3 +6,5 @@
 *.sln.docstates
 *.sln.ide
 *.sln.userprefs
+bin/
+obj/
