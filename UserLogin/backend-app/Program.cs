@@ -33,6 +33,13 @@ app.UseStaticFiles();
 // CORSを使用する
 app.UseCors("AllowAll");
 
+// カスタムミドルウェアで X-Content-Type-Options ヘッダーを追加
+app.Use(async (context, next) =>
+{
+    context.Response.Headers.Append("X-Content-Type-Options", "nosniff"); // Appendを使用
+    await next();
+});
+
 app.UseRouting();
 
 app.UseAuthorization();

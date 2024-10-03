@@ -14,5 +14,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_app.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRquest",
+        "Type": "backend_app.Models.LoginModels",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

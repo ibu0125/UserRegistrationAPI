@@ -49,3 +49,4 @@ C:\Users\ibuki\source\loginAPI\UserLogin\backend-app\obj\Debug\net8.0\refint\bac
 C:\Users\ibuki\source\loginAPI\UserLogin\backend-app\obj\Debug\net8.0\backend-app.pdb
 C:\Users\ibuki\source\loginAPI\UserLogin\backend-app\obj\Debug\net8.0\backend-app.genruntimeconfig.cache
 C:\Users\ibuki\source\loginAPI\UserLogin\backend-app\obj\Debug\net8.0\ref\backend-app.dll
+C:\Users\ibuki\source\loginAPI\UserLogin\backend-app\obj\Debug\net8.0\backend-app.sourcelink.json
